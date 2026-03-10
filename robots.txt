@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mingmadorjeesherpa.com.np/sitemap.xml
